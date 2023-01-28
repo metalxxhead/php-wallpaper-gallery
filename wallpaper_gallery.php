@@ -106,7 +106,7 @@ if(count($root_images) > 0)
     }
     //The foreach (wallpaper in root folder) ends HERE
 }
-//The IF (there is at least one wallpaper) ends HERE
+//The IF (there is at least one wallpaper in the root folder) ends HERE
 
 //At this point, all wallpaper images in the root of the folder have been handled.
 //Now we need to handle wallpaper images that have been categorized into subfolders.
