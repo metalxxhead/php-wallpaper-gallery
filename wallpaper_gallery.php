@@ -33,6 +33,9 @@
     img {
         padding: 10px;
     }
+    h2 {
+    color: white;
+    }
 </style>
 
 <!-- This javascript runs AFTER the page has fully loaded.  Resizes all images to thumbs -->
