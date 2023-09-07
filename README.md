@@ -4,27 +4,7 @@ PHP Wallpaper Gallery
 > A super simple PHP-based wallpaper gallery meant to be run on an internal local/home network.
 
 
-### Licensing
-
-    PHP Wallpaper Gallery
-    Copyright (C) 2023 github.com/metalxxhead
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
 ### About
-
-First of all, this software is 100% free and open-source.  Contributions from the open-source community and users of my software are absolutely welcome.  If you have any modifications or improvements you'd like to contribute, feel free to send me a pull request.
 
 I designed this software because I work a lot with virtual machines and laptops and I'm frequently tinkering with and performing fresh installs of linux on different systems.  After setting up an FTP server for my favorite config files, I decided having an easy place to get my favorite desktop wallpapers was just as important.  You may want to do the same, or you might simply want a simple gallery for your favorite images.  Just keep in mind, non-wallpaper images are untested, and if they are drastically different than the standard 1920x1080 or its portrait orientation variant (with some wiggle room allowed), some images ***may*** appear sqished or distorted, although you might be able to fix things in the code by choosing different resize ratio percentages, as long as your image sizes are generally uniform.
 
